@@ -8,7 +8,7 @@
  * @example test.php
  * @author hiroaki.kubota@mail.rakuten.co.jp
  * @date 2010-06-15
- * @version $Id: RomaClient.php,v 0.9.1 2011/04/08 09:00:00 hiroaki.kubota Exp $
+ * @version $Id: RomaClient.php,v 0.9.2 2015/03/31 09:00:00 hiroki.matsue Exp $
  */
 #extension_loaded('phprmcc') || dl('phprmcc.so');
 
