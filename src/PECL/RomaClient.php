@@ -525,5 +525,3 @@ class RomaClient {
     /*     /\* return $result; *\/ */
     /*   throw new Exception("Not implements !"); */
     /* } */
-
-?> 
